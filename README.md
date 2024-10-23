@@ -1,31 +1,6 @@
 # Voilence-Recognition
-<title>Swin Transformer</title>
-<style>
-body {
-font-family: Arial, sans-serif;
-margin: 20px;
-}
-	h1, h2, h3 {
-		color: #333;
-	}
-	
-	table {
-		border-collapse: collapse;
-		width: 100%;
-	}
-	
-	th, td {
-		border: 1px solid #ddd;
-		padding: 10px;
-		text-align: left;
-	}
-	
-	th {
-		background-color: #f0f0f0;
-	}
-</style>
-</head>
-<body>
+<h3>Swin Transformer</h3>
+
 <h1>Swin Transformer</h1>
 <p>Implementation of the Swin Transformer model using TensorFlow and Keras.</p>
 <h2>Table of Contents</h2>
